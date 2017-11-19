@@ -1,0 +1,8 @@
+prefix=/home/yifan/mygit/path_db/catkin_ws/devel
+
+Name: path_db
+Description: Description of path_db
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yifan/mygit/path_db/catkin_ws/devel/lib 
+Requires: 

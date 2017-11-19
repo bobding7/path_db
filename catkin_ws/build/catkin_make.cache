@@ -1,0 +1,2 @@
+path_db
+-DCATKIN_DEVEL_PREFIX=/home/yifan/mygit/path_db/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yifan/mygit/path_db/catkin_ws/install -G Unix Makefiles
