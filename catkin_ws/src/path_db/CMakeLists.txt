@@ -50,13 +50,15 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
  add_message_files(
    FILES
-   Num.msg
+   Pose2D.msg
+   Path2D.msg
+   Belief.msg
  )
 
 ## Generate services in the 'srv' folder
  add_service_files(
    FILES
-   AddTwoInts.srv
+   QueryDB.srv
  )
 
 ## Generate actions in the 'action' folder

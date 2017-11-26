@@ -1,2 +1,6 @@
 # path_db
-Path database
+Each robot will have a path database. 
+
+## server
+Input: String. The request type: 'update' or 'query'
+
